@@ -55,6 +55,5 @@ Actions > Cloud189Checkin > build
 复制py代码，将三个参数自行修改  
 
 
-
-此后，将会在每天半夜12点多会自动签到一次  
+自此就成功了，每天凌晨12点多都会自动签到的，**不过cookie过段时间会失效，到时登录github手动更改一下cookie值就行**。
 若有需求，可以在[.github/workflows/python-publish.yml]中自行修改  
