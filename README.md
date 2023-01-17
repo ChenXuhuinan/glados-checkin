@@ -27,6 +27,20 @@
 暂不支持多账号，懒得弄
 ![](http://tu.yaohuo.me/imgs/2020/06/748bf9c0ca6143cd.png)
 
+获取COOKIE
+登录glados，按键盘上的F12打开开发者工具
+
+进入我的账户，刷新页面
+
+如图所示找到cookie，把 cookie： 后面的几行都复制下来，填入上一步对应的value中
+
+获取SCKEY
+（2022.3.23更新：server酱的网站更新了，之前叫SCKEY，现在叫SENDKEY，但是不影响我们后面的操作）
+
+这是在server酱中获取的，用于绑定微信，给你推送签到后的结果
+
+server酱地址：https://sct.ftqq.com/login
+
 ## 三、启用Action
 1 点击**Action**，再点击**I understand my workflows, go ahead and enable them**  
 2 修改任意文件后提交一次  
